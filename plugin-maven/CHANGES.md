@@ -5,6 +5,7 @@ We adhere to the [keepachangelog](https://keepachangelog.com/en/1.0.0/) format (
 ## [Unreleased]
 ### Changed
 * Use SLF4J for logging ([#1116](https://github.com/diffplug/spotless/issues/1116))
+* Add a magic value ('NONE') to disable ratchetFrom in configuration. ([#1132](https://github.com/diffplug/spotless/pull/1132))
 
 ## [2.20.2] - 2022-02-09
 ### Changed
