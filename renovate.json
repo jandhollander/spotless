@@ -3,4 +3,10 @@
 	"extends": [
 		"config:base"
 	]
+	"reviewers": ["team:foo"],
+	"vulnerabilityAlerts": {
+		"labels": ["security"],
+		"automerge": true,
+		"assignees": ["@jandhollander"]
+  	}
 }
