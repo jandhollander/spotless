@@ -40,7 +40,7 @@ dependencies {
 	ktlintCompileOnly "com.pinterest.ktlint:ktlint-ruleset-standard:$VER_KTLINT"
 
 	// used for markdown formatting
-	flexmarkCompileOnly 'com.vladsch.flexmark:flexmark-all:0.62.2'
+	flexmarkCompileOnly 'com.vladsch.flexmark:flexmark-all:0.64.8'
 }
 
 // we'll hold the core lib to a high standard
